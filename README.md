@@ -1,11 +1,9 @@
-[![MasterHead](https://drive.google.com/file/d/1JrH_VkznlK3GSFzKLKb4bbCi_M1PcPTL/view?usp=drive_link)](https://drive.google.com/file/d/1JrH_VkznlK3GSFzKLKb4bbCi_M1PcPTL/view?usp=drive_link)
+![logo](https://github.com/nirdoshrawal009/nirdoshrawal009/blob/main/DS.gif)
 <h1 align="center">Hi 👋, I'm Nirdosh Rawal</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+<img align="right" alt="Coding" width="380" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirdoshrawal009&label=Profile%20views&color=0e75b6&style=flat" alt="nirdoshrawal009" /> </p>
-
-<p align="left"> <a href="https://twitter.com/nirdoshrawal" target="blank"><img src="https://img.shields.io/twitter/follow/nirdoshrawal?logo=twitter&style=for-the-badge" alt="nirdoshrawal" /></a> </p>
 
 - 🔭 I’m currently working on [AQI prediction using LSTM & its Variants](https://github.com/nirdoshrawal009/AQI-PREDICTION-USING-LSTM)
 
