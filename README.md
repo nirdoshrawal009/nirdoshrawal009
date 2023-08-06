@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nirdosh.1@iitj.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16TOGDVPeBcmw_TTMTksEkT6KF6NZckJn/view?usp=sharing](https://drive.google.com/file/d/16TOGDVPeBcmw_TTMTksEkT6KF6NZckJn/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ErXa0OWfP4p5tLDmYkFhjdPqxMizd7la/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
