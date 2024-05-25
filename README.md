@@ -3,11 +3,11 @@
 <h3 align="center"> Data Scientist at Genpact from India</h3>
 <img align="right" alt="Coding" width="370" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirdoshrawal009&label=Profile%20views&color=0e75b6&style=flat" alt="nirdoshrawal009" /> </p>
-
-- 🔭 I’m currently working on [AQI prediction using LSTM & its Variants](https://github.com/nirdoshrawal009/AQI-PREDICTION-USING-LSTM)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirdoshrawal009&label=Profile%20views&color=0e75b6&style=flat" alt="nirdoshrawal009" /> </p>4
 
 - 🌱 I’m currently working upon **Generative AI, NLP & Building LLM Application**
+- 
+- 🔭 I’m also worked upon [AQI prediction using LSTM & its Variants](https://github.com/nirdoshrawal009/AQI-PREDICTION-USING-LSTM)
 
 - 💬 Ask me about **Gen AI, ML, DL & Data Analytics**
 
