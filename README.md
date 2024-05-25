@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirdoshrawal009&label=Profile%20views&color=0e75b6&style=flat" alt="nirdoshrawal009" /> </p>4
 
 - 🌱 I’m currently working upon **Generative AI, NLP & Building LLM Application**
-- 
+
 - 🔭 I’ve also worked on [AQI prediction using LSTM & its Variants](https://github.com/nirdoshrawal009/AQI-PREDICTION-USING-LSTM)
 
 - 💬 Ask me about **Gen AI, ML, DL & Data Analytics**
