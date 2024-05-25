@@ -1,6 +1,6 @@
 ![logo](https://github.com/nirdoshrawal009/nirdoshrawal009/blob/main/DS.gif)
 <h1 align="center">Hi 👋, I'm Nirdosh Rawal</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center"> Data Scientist at Genpact from India</h3>
 <img align="right" alt="Coding" width="370" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirdoshrawal009&label=Profile%20views&color=0e75b6&style=flat" alt="nirdoshrawal009" /> </p>
