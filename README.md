@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [AQI prediction using LSTM & its Variants](https://github.com/nirdoshrawal009/AQI-PREDICTION-USING-LSTM)
 
-- 🌱 I’m currently learning **Generative AI, NLP**
+- 🌱 I’m currently working upon **Generative AI, NLP & Building LLM Application**
 
-- 💬 Ask me about **ML, DL & Data Analytics**
+- 💬 Ask me about **Gen AI, ML, DL & Data Analytics**
 
-- 📫 How to reach me **nirdosh.1@iitj.ac.in**
+- 📫 How to reach me **nirdosh.1@alumni.iitj.ac.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ErXa0OWfP4p5tLDmYkFhjdPqxMizd7la/view?usp=drive_link)
 
