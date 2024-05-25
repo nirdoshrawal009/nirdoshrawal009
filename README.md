@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working upon **Generative AI, NLP & Building LLM Application**
 - 
-- 🔭 I’m also worked upon [AQI prediction using LSTM & its Variants](https://github.com/nirdoshrawal009/AQI-PREDICTION-USING-LSTM)
+- 🔭 I’ve also worked on [AQI prediction using LSTM & its Variants](https://github.com/nirdoshrawal009/AQI-PREDICTION-USING-LSTM)
 
 - 💬 Ask me about **Gen AI, ML, DL & Data Analytics**
 
